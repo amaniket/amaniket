@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @amaniket
 - 👀 I’m interested in coding ,programming , problem solving , creating new softwares and apps...
-- 🌱 I’m currently learning ... DSA in java
+- 🌱 I’m currently learning ... DSA and working on mern stack and competitive programming.
+-   
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... aniketdelhi67@gmail.com
 
